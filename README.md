@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-gajjar" alt="akash-gajjar" /></a> </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=akashgajjar)](https://github.com/akash-gajjar/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=skyme5)](https://github.com/skyme5/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-gajjar&show_icons=true&locale=en" alt="akash-gajjar" /></p>
 
